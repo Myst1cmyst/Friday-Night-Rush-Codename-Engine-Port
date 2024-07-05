@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-stage>
+<stage>
+	<sprite x="-293" y="-235" sprite="stages/leafstorm/farbg" scale="1.2" name="farbg"/>
+	<sprite x="-277" y="377" sprite="stages/leafstorm/closebg2" name="closebg2"/>
+	<sprite x="1192" y="385" sprite="stages/leafstorm/gfplatform" name="gfplatform"/>
+	<sprite x="-218" y="68" sprite="stages/leafstorm/bgrings" name="bgrings"/>
+	<sprite x="218.5" y="-241.5" sprite="stages/leafstorm/closebg" name="closebg"/>
+	<sprite x="-552" y="563.5" sprite="stages/leafstorm/fgfloor" name="fgfloor"/>
+	<gf x="1127.5" y="-136" scale="0.6"/>
+	<bf x="831.5" y="-45"/>
+	<dad x="143" y="-49.5"/>
+	<combo/>
+</stage>

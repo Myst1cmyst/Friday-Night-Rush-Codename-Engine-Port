@@ -1,0 +1,17 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "sonic",
+	"difficulties": [
+		"normal",
+		"hard"
+	],
+	"parsedColor": -16747777,
+	"color": "#0072FF",
+	"name": "Rush",
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "Rush",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 156
+}

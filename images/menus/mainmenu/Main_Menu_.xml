@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Main_Menu_.png">
+<SubTexture name="Main_Menu_staic_story0000" x="0" y="396" width="583" height="95" frameX="0" frameY="0" frameWidth="583" frameHeight="95" />
+<SubTexture name="Main_Menu_selected_story0000" x="0" y="0" width="622" height="132" frameX="0" frameY="0" frameWidth="622" frameHeight="132" />
+<SubTexture name="Main_Menu_staic_options0000" x="0" y="491" width="583" height="95" frameX="0" frameY="0" frameWidth="583" frameHeight="95" />
+<SubTexture name="Main_Menu_selected_options0000" x="0" y="132" width="622" height="132" frameX="0" frameY="0" frameWidth="622" frameHeight="132" />
+<SubTexture name="Main_Menu_staic_Free0000" x="622" y="0" width="583" height="95" frameX="0" frameY="0" frameWidth="583" frameHeight="95" />
+<SubTexture name="Main_Menu_selected_Free0000" x="0" y="264" width="622" height="132" frameX="0" frameY="0" frameWidth="622" frameHeight="132" />
+</TextureAtlas>
